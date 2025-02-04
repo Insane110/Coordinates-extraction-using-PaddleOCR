@@ -1,5 +1,5 @@
 # Coordinates-extraction-using-PaddleOCR
-![Colored Image](yes_color.png)
+![Colored Image](yescolor.jpg)  ![Greyscale Image](nocolor.jpg)
 # 📌 Project Description
 
 The Color Object Coordinate Retrieval Agent is an AI-powered system that extracts and matches coordinates from two nearly identical images: one containing colored objects and another in grayscale with corresponding coordinate labels. The agent processes a user query specifying a color and retrieves the matching object's coordinates from the grayscale image.
