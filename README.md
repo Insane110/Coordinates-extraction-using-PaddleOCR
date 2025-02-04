@@ -15,7 +15,7 @@ The Color Object Coordinate Retrieval Agent is an AI-powered system that extract
 
 - Natural Language Query Processing: Fine-tunes a T5-small model to understand and process user queries.
 
-📜 Workflow
+# 📜 Workflow
 
 - Extract Coordinates: OCR is applied to detect and extract coordinate labels from the grayscale image.
 
